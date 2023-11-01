@@ -1,0 +1,14 @@
+{
+  "name": "cypress-async-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open --config-file cypress/config/cypress.config.js --browser=chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "12.16.0"
+  }
+}
